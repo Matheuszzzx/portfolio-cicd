@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 360" role="img" aria-labelledby="title description">
+  <title id="title">Retrato ilustrado</title>
+  <desc id="description">Ilustração original de uma pessoa sorridente sobre um fundo azul com detalhes ciano e rosa.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#172644"/>
+      <stop offset="1" stop-color="#314f82"/>
+    </linearGradient>
+    <linearGradient id="shirt" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#21c5ce"/>
+      <stop offset="1" stop-color="#138a9b"/>
+    </linearGradient>
+  </defs>
+  <rect width="360" height="360" fill="url(#background)"/>
+  <circle cx="180" cy="170" r="132" fill="none" stroke="#f15b9b" stroke-width="3" opacity=".8"/>
+  <circle cx="180" cy="170" r="112" fill="#263b68"/>
+  <path d="M75 360c8-65 47-105 105-105s97 40 105 105" fill="url(#shirt)"/>
+  <path d="M143 231h74v53c-18 20-56 20-74 0z" fill="#a95f49"/>
+  <path d="M108 153c0-59 31-96 75-96 48 0 76 37 76 96v28c0 52-34 91-79 91-42 0-72-38-72-88z" fill="#bd7658"/>
+  <path d="M104 162c-16-67 13-118 63-126 31-24 94-7 105 47 5 24-1 48-8 64-7-33-21-46-40-57-21 25-65 37-118 28z" fill="#171c2c"/>
+  <path d="M108 129c-23 13-27 43-12 62 8 10 16 12 23 9" fill="#bd7658"/>
+  <path d="M251 129c23 13 27 43 12 62-8 10-16 12-23 9" fill="#bd7658"/>
+  <path d="M129 164c10-8 22-8 32-1" fill="none" stroke="#3b2630" stroke-width="6" stroke-linecap="round"/>
+  <path d="M193 163c10-7 22-7 32 1" fill="none" stroke="#3b2630" stroke-width="6" stroke-linecap="round"/>
+  <ellipse cx="145" cy="180" rx="5" ry="7" fill="#202238"/>
+  <ellipse cx="210" cy="180" rx="5" ry="7" fill="#202238"/>
+  <path d="M176 179c-2 12-6 22-4 26 3 3 8 3 12 0" fill="none" stroke="#93543f" stroke-width="4" stroke-linecap="round"/>
+  <path d="M153 218c16 13 37 13 53 0" fill="none" stroke="#742e49" stroke-width="5" stroke-linecap="round"/>
+  <circle cx="74" cy="97" r="5" fill="#21c5ce"/>
+  <circle cx="283" cy="232" r="7" fill="#f15b9b"/>
+  <path d="M51 235h22m-11-11v22M286 93h18m-9-9v18" stroke="#21c5ce" stroke-width="3" stroke-linecap="round"/>
+</svg>
